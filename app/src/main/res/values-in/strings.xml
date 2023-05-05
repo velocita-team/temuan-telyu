@@ -43,4 +43,8 @@
     <string name="post_uploaded">Unggahan berhasil diunggah.</string>
     <string name="fail_upload">Gagal mengunggah konten.</string>
     <string name="fetch_error">Gagal memuat konten.</string>
+
+    <string name="done">Selesai</string>
+
+    <string name="no_data_available">Tidak ada data yang tersedia</string>
 </resources>

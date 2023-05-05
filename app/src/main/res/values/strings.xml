@@ -51,4 +51,9 @@
         \n%3$s | %4$s
         \n%5$s
     </string>
+
+    <string name="done">Done</string>
+
+    <string name="no_data_available">No data available</string>
+
 </resources>
