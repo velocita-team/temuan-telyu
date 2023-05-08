@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186516286962",
+    "project_id": "temuan-telyu",
+    "storage_bucket": "temuan-telyu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186516286962:android:e43a2a01e06835607a8f6b",
+        "android_client_info": {
+          "package_name": "com.velocitateam.temuantelyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186516286962-u93epu770pcasjdn20640uis17c2dmhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNGcLfFXDZyNdFwIm6nY-S5YJUF4ul7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186516286962-u93epu770pcasjdn20640uis17c2dmhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
